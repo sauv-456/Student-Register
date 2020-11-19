@@ -1,0 +1,28 @@
+#submit{
+margin-top: 20px;
+margin-bottom: 20px;
+width: 70px;
+height: 30px;
+
+
+}
+#sort{
+    margin-top: 20px;
+    margin-bottom: 20px;
+display: none; 
+width: 70px;
+height: 30px;
+
+    }
+
+body{
+background-color: aqua;
+text-align: center;
+
+
+}
+
+
+
+
+
